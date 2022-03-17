@@ -1,0 +1,6 @@
+framework module JBaseMVVM {
+  umbrella header "JBaseMVVM-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,33 @@
+PODS:
+  - JBaseMVVM (0.1.0):
+    - RxCocoa (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+
+DEPENDENCIES:
+  - JBaseMVVM (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+EXTERNAL SOURCES:
+  JBaseMVVM:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JBaseMVVM: 41241575c9b6bf407e1d68c33002d69c074e10f7
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+
+PODFILE CHECKSUM: f8a053e0499a02a2f6cf21c3afea7b179afadd6c
+
+COCOAPODS: 1.11.2

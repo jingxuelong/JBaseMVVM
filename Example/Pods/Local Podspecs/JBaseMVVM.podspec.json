@@ -1,0 +1,32 @@
+{
+  "name": "JBaseMVVM",
+  "version": "0.1.0",
+  "summary": "必须填写JBaseMVVM的说明.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jingxuelong/JBaseMVVM",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jingxuelong": "jingxuelong0037@126.com"
+  },
+  "source": {
+    "git": "https://github.com/jingxuelong/JBaseMVVM.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "JBaseMVVM/Classes/**/*",
+  "dependencies": {
+    "RxSwift": [
+      "6.5.0"
+    ],
+    "RxCocoa": [
+      "6.5.0"
+    ]
+  },
+  "swift_version": "5.0"
+}
